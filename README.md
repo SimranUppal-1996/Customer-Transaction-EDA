@@ -4,7 +4,7 @@ The dataset is downloaded from Kaggle. It is related to Customer transactions. E
 The dataset has been read in jupyter notebook and stored in a dataframe. There are nine series in this dataframe, viz., Customer ID, Name, Surname,
 Gender, Birthdate, Transaction Amount, Date, Merchant Name and Category. 
 
-The following observations were made while analyzing the data and then underlying problems were solved:
+The following observations were made while analyzing the data and then underlying problems were solved, followed by some meaningful insights:
 
 
 
