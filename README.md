@@ -13,7 +13,7 @@ The following observations were made while analyzing the data and then underlyin
 
 
 2 - There were many null values in one of the series though, i.e., Gender, which were removed by randomly allocating 'Male' value and 'Female' value
-to the null cells in this series. This was done due to the ratio of Female to male when null values were not removed. It was observed that the numbe
+to the null cells in this series. This was done due to the ratio of Female to male when null values were not removed. It was observed that the number
 of females were slightly more than males. This ratio remained almost same even after applying random function to this series.
 
 
