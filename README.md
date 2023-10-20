@@ -5,6 +5,9 @@ The dataset has been read in jupyter notebook and stored in a dataframe. There a
 Gender, Birthdate, Transaction Amount, Date, Merchant Name and Category. 
 
 The following observations were made while analyzing the data and then underlying problems were solved:
+
+
+
 1 - Firstly, it was observed that there were not any outliers in the data.
 
 
