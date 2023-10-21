@@ -37,4 +37,4 @@ amounts were fewer.
 
 
 
-8 - Lastly, the time of the year did not matter much and had almost no impact on the 'Transaction Amount'.
+8 - Lastly, the 'Transaction Amount' was the least in the month of October as compared to others.
